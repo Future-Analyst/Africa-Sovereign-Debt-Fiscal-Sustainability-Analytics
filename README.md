@@ -4,6 +4,7 @@
 ![Data Analysis](https://img.shields.io/badge/Focus-Economic%20%26%20Fiscal%20Analysis-2E8B57)
 ![Status](https://img.shields.io/badge/Status-Completed-blue)
 
+![Dashboard Overview](Templates/dashboard%20overview.jfif)
 ## Project Overview
 
 Why has sovereign debt become a major challenge for African economies, and what can historical economic data reveal about the path towards fiscal sustainability?
